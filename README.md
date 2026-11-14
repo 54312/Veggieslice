@@ -55,5 +55,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
 
 - **Developer:** Sabir Murshed Ansari
-- **Email:** test_reviewer@veggieslice.app
+- **Email:** arraydgtal@gmail.com
 - **Effective Date:** November 13, 2026
